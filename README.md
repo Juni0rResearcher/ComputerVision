@@ -1,6 +1,3 @@
-Here's a complete `README.md` for the **SGD vs. AdamW** study on Fashion-MNIST:
-
-```markdown
 # Optimizer Study: SGD vs. AdamW on Fashion-MNIST
 
 ## Objective
@@ -233,7 +230,6 @@ Hypothesis supported.
 - Fashion-MNIST dataset: Xiao et al. (2017)
 - AdamW: Loshchilov & Hutter (2019) - "Decoupled Weight Decay Regularization"
 - SGD with momentum: Sutskever et al. (2013)
-```
 
 ---
 
